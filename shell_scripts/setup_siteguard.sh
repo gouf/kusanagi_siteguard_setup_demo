@@ -14,7 +14,7 @@ cd /opt/jp-secure/siteguardlite \
 # Nginx Config File
 # /etc/nginx/nginx.conf
 
-# Nginx Binary File (Nothing to do.)
+# Nginx Binary File
 # /usr/sbin/nginx
 
 # Is the Web server registered in systemd?
